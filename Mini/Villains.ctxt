@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Villains
+comment1.params=
+comment1.target=void\ setPowerUp()
+comment2.params=
+comment2.target=int\ getAttack()
+comment3.params=userAttack
+comment3.target=void\ decreaseHitPoints(int)
+numComments=4

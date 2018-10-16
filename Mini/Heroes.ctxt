@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Heroes
+comment1.params=
+comment1.target=void\ increaseAttack()
+comment2.params=
+comment2.target=void\ increaseHP()
+comment3.params=VillianAttack
+comment3.target=void\ decreaseHitPoints(int)
+comment4.params=dodge
+comment4.target=void\ dodge(boolean)
+comment5.params=
+comment5.target=void\ increaseMana()
+comment6.params=
+comment6.target=void\ decreaseMana()
+numComments=7

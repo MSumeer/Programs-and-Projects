@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=GUI
+comment1.params=heroArr\ finished
+comment1.target=void\ fileWrite(java.util.ArrayList,\ boolean)
+comment10.params=heroArr
+comment10.target=void\ GoblinFight(java.util.ArrayList)
+comment11.params=heroArr
+comment11.target=void\ MapBoss(java.util.ArrayList)
+comment12.params=heroArr
+comment12.target=void\ BossFight(java.util.ArrayList)
+comment2.params=
+comment2.target=void\ LoadGame()
+comment3.params=
+comment3.target=void\ startNewGame()
+comment4.params=
+comment4.target=void\ wizard()
+comment5.params=
+comment5.target=void\ warrior()
+comment6.params=
+comment6.target=void\ startRealGame()
+comment7.params=heroArr
+comment7.target=void\ btnIncreaseAttack(java.util.ArrayList)
+comment8.params=heroArr
+comment8.target=void\ btnIncreaseHP(java.util.ArrayList)
+comment9.params=heroArr
+comment9.target=void\ Map(java.util.ArrayList)
+numComments=13

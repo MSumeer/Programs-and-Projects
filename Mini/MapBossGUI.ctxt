@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MapBossGUI
+comment1.params=heroArr
+comment1.target=MapBossGUI(java.util.ArrayList)
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment3.params=
+comment3.target=void\ moveBoss()
+comment4.params=a
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=
+comment5.target=void\ update()
+comment6.params=a
+comment6.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment7.params=a
+comment7.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment8.params=a
+comment8.target=void\ keyTyped(java.awt.event.KeyEvent)
+numComments=9
